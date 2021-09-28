@@ -9,6 +9,8 @@ Vanguard Health Insurance was a client of mine from 2018. It was my third projec
 - This is my first production project to use 3rd party packages
 - Minimizing the amount of 3rd party packages can provide a huge bump in speed
 - My first true A/B Testing based off analtyics was done on this site
+- Clean code and code comments for when updating later on
+- Appropriate names / descriptions for syntax
 - Speaking and communicating efficiently with the client in order to obtain or describe the correct information, the first time
 
 ### [Visit Vanguard Health Insurance](https://vanguardhealthinsurance.com/)
