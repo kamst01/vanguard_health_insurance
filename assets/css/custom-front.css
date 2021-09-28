@@ -1,0 +1,63 @@
+.r {
+	color: #1e2022;
+}
+
+.r:hover {
+	color: #de4437;
+}
+
+.u-gradient-half-yellow {
+    background-image: linear-gradient(0deg, rgba(255,243,205, 1) 0%, transparent 100%);
+    background-repeat: repeat-x;
+}
+
+.u-gradient-overlay-half-dark-v2::before {
+	background-image: linear-gradient(0deg, #1e2022 0%, transparent 100%);
+    background-repeat: repeat-x;
+}
+
+.u-gradient-half-danger-v1 {
+	
+}
+
+.bg-white-alpha {
+	background: rgba(255,255,255,0.8);
+}
+
+.bg {
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.bg1 {
+	background-image: url('../../assets/img/1920x1080/img1.jpg');
+}
+
+.bg2 {
+	background-image: url('../../assets/img/1920x1080/img2.jpg');
+}
+
+.bg3 {
+	background-image: url('../../assets/img/1920x1080/img3.jpg');
+}
+
+.bg4 {
+	background-image: url('../../assets/img/1920x1080/img4.jpg');
+}
+
+.bg5 {
+	background-image: url('../../assets/img/1920x1080/img5.jpg');
+}
+
+.bg6 {
+	background-image: url('../../assets/img/1920x1080/img6.jpg');
+}
+
+.nav-link-danger {
+	color: #de4437;
+}
+
+.nav-link-danger:hover {
+	color: #dc3545;
+}
